@@ -5,7 +5,7 @@
 Python 데이터 분석 라이브러리를 활용해 근로기준법에 맞춘 정확한 급여 계산 엔진을 구현했습니다.
 
 ### 🔗 배포 URL
-👉 [데모 사이트 바로가기](님의_스트림릿_주소_여기에_붙여넣기)
+👉 [데모 사이트 바로가기](https://alba-demo-sydgfzmhx9fxjt2ttu73er.streamlit.app/)
 
 ### 🛠️ 사용 기술 (Tech Stack)
 * **Language:** Python 3.9
